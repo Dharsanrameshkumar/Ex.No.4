@@ -45,6 +45,8 @@ Prompt Size Limitations:
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
 
+# Output:
+[Ex_No_4_Prompt_Engineering_Report.pdf](https://github.com/user-attachments/files/22714673/Ex_No_4_Prompt_Engineering_Report.pdf)
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
